@@ -1,16 +1,19 @@
-# g70-notes
+## g70-notes
 g70-notes
 
 
-- BREAK WEEK NOTES
+# BREAK WEEK NOTES
 
-   -- Keep pushing forward.
+   # Keep pushing forward.
         Target: Complete Candy Shop
-   -- Goal: Do G-Money in 10 minutes.
-   -- Daily Programmer exercises:
+        
+   # Goal: Do G-Money in 10 minutes.
+   
+   # Daily Programmer exercises:
         Anything from the Daily Programmer repo. https://github.com/gSchool/DailyProgrammer/tree/master/19_wordCloud
         r/dailyprogrammer: https://www.reddit.com/r/dailyprogrammer/
-   -- Read a programming book
+        
+   # Read a programming book
         (Free) Eloquent JS: http://eloquentjavascript.net/
         (Free) You don’t know JS: https://github.com/getify/You-Dont-Know-JS
         (Free weekend) Code School: https://www.codeschool.com/
