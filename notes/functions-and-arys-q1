@@ -1,0 +1,2 @@
+Expression - hoistable!!! function double(args) {}
+Declaration - no hoisting. var double = function(args) {}
