@@ -23,3 +23,7 @@ g70-notes
         Design for Hackers: https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956
     # Learn Enough Series:
       - https://www.learnenough.com/git-tutorial
+
+    # Interesting Patters
+      - http://learnjsdata.com/combine_data.html
+        - d3 examples. 
