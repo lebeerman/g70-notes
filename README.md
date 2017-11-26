@@ -5,7 +5,7 @@ g70-notes
 # BREAK WEEK NOTES
 
    # Keep pushing forward.
-        Target: Complete Candy Shop
+        Target: Testing then P2! Write! 
 
    # Goal: Do G-Money in 10 minutes.
 
@@ -26,4 +26,4 @@ g70-notes
 
     # Interesting Patters
       - http://learnjsdata.com/combine_data.html
-        - d3 examples. 
+        - d3 examples.
