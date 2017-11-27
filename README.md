@@ -5,8 +5,9 @@ g70-notes
 # BREAK WEEK NOTES
 
    # Keep pushing forward.
-        Target: Testing then P2! Write! 
-
+        Target: Testing then P2! Write!
+        Updates: Testing isnt easy and personal life mixing with studying makes it tough to meet goals. good chance to reflect though.
+        
    # Goal: Do G-Money in 10 minutes.
 
    # Daily Programmer exercises:
