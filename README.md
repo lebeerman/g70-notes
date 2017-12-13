@@ -2,13 +2,13 @@
 g70-notes
 
 
-# BREAK WEEK NOTES
+# Before Winter Break
 
    # Keep pushing forward.
-        Target: Testing then P2! Write!
-        Updates: Testing isnt easy and personal life mixing with studying makes it tough to meet goals. good chance to reflect though.
+        Target: P2! Write!
+        Updates: hoping to get wod from insurance soon.
         
-   # Goal: Do G-Money in 10 minutes.
+   # Goal: Do G-Money in 10 minutes. Launch a Simple VR web app. Front end frameworks + 3rd bucket!!! 
 
    # Daily Programmer exercises:
         Anything from the Daily Programmer repo. https://github.com/gSchool/DailyProgrammer/tree/master/19_wordCloud
@@ -28,3 +28,4 @@ g70-notes
     # Interesting Patters
       - http://learnjsdata.com/combine_data.html
         - d3 examples.
+
