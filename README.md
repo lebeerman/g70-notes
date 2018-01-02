@@ -2,11 +2,11 @@
 g70-notes
 
 
-# Before Winter Break
+# Winter Break
 
    # Keep pushing forward.
-        Target: P2! Write!
-        Updates: hoping to get wod from insurance soon.
+        Target: P2! Write! 3 posts?
+        Updates: Medicaid application
         
    # Goal: Do G-Money in 10 minutes. Launch a Simple VR web app. Front end frameworks + 3rd bucket!!! 
 
