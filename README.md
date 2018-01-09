@@ -6,14 +6,12 @@ g70-notes
 
    # Keep pushing forward.
         Target: P2! Write! 3 posts?
-        Updates: Medicaid application
-        
-   # Goal: Do G-Money in 10 minutes. Launch a Simple VR web app. Front end frameworks + 3rd bucket!!! 
+
+   # Goal: Do G-Money in 10 minutes. Launch a Simple VR web app. Front end frameworks + 3rd bucket!!!
 
    # Daily Programmer exercises:
-        Anything from the Daily Programmer repo. https://github.com/gSchool/DailyProgrammer/tree/master/19_wordCloud
-        r/dailyprogrammer: https://www.reddit.com/r/dailyprogrammer/
-
+        Anything from the Daily Programmer repo. https://github.com/gSchool/DailyProgrammer/tree/master/19_wordClou
+        
    # Read a programming book
         (Free) Eloquent JS: http://eloquentjavascript.net/
         (Free) You don’t know JS: https://github.com/getify/You-Dont-Know-JS
@@ -28,4 +26,3 @@ g70-notes
     # Interesting Patters
       - http://learnjsdata.com/combine_data.html
         - d3 examples.
-
