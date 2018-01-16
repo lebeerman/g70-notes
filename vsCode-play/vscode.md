@@ -13,3 +13,4 @@
 - cmd shift p => best thing ever. 
 - debugging! *** Having issues with some debuging. 
 - Prettier/ES Lint not working
+- figure out split screen/toggling.
