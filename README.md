@@ -38,3 +38,11 @@ g70-notes
     - https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond
     - https://tylermcginnis.com/react-router-programmatically-navigate/
     - http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
+
+
+# OPEN SOURCE
+
+  - Pull Request is the currentcy. 
+  - easy to contribute on Github. 
+  - Ok to contribute very small changes, grammar, spelling, clarify, edit. 
+  - 
