@@ -5,6 +5,8 @@ g70-notes
 ## Sooooo much to learn
 
    # Keep pushing forward.
+    
+
    # Goal: Do G-Money in <10 minutes. Launch a Simple VR web app. Front end frameworks + 3rd bucket!!!
     # Read REACT DOCS!!!
    # Daily Programmer exercises:
