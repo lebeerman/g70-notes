@@ -47,4 +47,8 @@ g70-notes
   - Pull Request is the currentcy. 
   - easy to contribute on Github. 
   - Ok to contribute very small changes, grammar, spelling, clarify, edit. 
-  - 
+
+### CAREER SERVICES: To Do
+  - Build Funnel
+  - Application Template
+  - Personal Website Rebrand + Resume + Linkedin + Tweeeeter
