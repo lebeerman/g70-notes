@@ -4,16 +4,21 @@ g70-notes
 
 ## Sooooo much to learn
 
-   # Keep pushing forward.
-    
+   ## Keep pushing forward.
+    - FOR BREAK WEEK
+      - kitchen: user stories
+      - dream factory: last dream factory 
+      - shark tank: write proposals
+      - fix investigators
+      TOWER!!!
 
-   # Goal: Do G-Money in <10 minutes. Launch a Simple VR web app. Front end frameworks + 3rd bucket!!!
+   ## Goal: Do G-Money in <10 minutes. Launch a Simple VR web app. Front end frameworks + 3rd bucket!!!
     # Read REACT DOCS!!!
-   # Daily Programmer exercises:
+   ## Daily Programmer exercises:
         Anything from the Daily Programmer repo. https://github.com/gSchool/DailyProgrammer/tree/master/19_wordCloud
         ------------
-
-   # Read a programming book
+     
+   ## Read a programming book
         (Free) Eloquent JS: http://eloquentjavascript.net/
         (Free) You don’t know JS: https://github.com/getify/You-Dont-Know-JS
         (Free weekend) Code School: https://www.codeschool.com/
@@ -28,8 +33,8 @@ g70-notes
       - http://learnjsdata.com/combine_data.html
         - d3 examples.
 
-## To Read:
-    - https://medium.com/@jaeger.rob/seed-knex-postgresql-database-with-json-data-3677c6e7c9bc
+### To Read:
+    - https://medium.com/@jaeger.rob/seed-knex-posgresql-database-with-json-data-3677c6e7c9bc
     - https://medium.com/@codecademy/javascript-tips-tab-4e9081b4132
     - https://www.viget.com/articles/creating-your-first-webvr-app/
     - http://linuxcommand.org/lc3_wss0030.php
@@ -42,7 +47,7 @@ g70-notes
     - http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
 
 
-# OPEN SOURCE
+### OPEN SOURCE
 
   - Pull Request is the currentcy. 
   - easy to contribute on Github. 
