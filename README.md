@@ -4,7 +4,11 @@ g70-notes
 
 ## Sooooo much to learn
 
+   # Keep pushing forward.
+    
+
    # Goal: Do G-Money in <10 minutes. Launch a Simple VR web app. Front end frameworks + 3rd bucket!!!
+    # Read REACT DOCS!!!
    # Daily Programmer exercises:
         Anything from the Daily Programmer repo. https://github.com/gSchool/DailyProgrammer/tree/master/19_wordCloud
         ------------
@@ -25,9 +29,10 @@ g70-notes
         - d3 examples.
 
 ## To Read:
-    - 
-    - https://medium.com/@codecademy/javascripthttps://medium.com/@jaeger.rob/seed-knex-postgresql-database-with-json-data-3677c6e7c9bc-tips-tab-4e9081b4132
+    - https://medium.com/@jaeger.rob/seed-knex-postgresql-database-with-json-data-3677c6e7c9bc
+    - https://medium.com/@codecademy/javascript-tips-tab-4e9081b4132
     - https://www.viget.com/articles/creating-your-first-webvr-app/
+    - http://linuxcommand.org/lc3_wss0030.php
     - https://marmelab.com/blog/2017/06/19/augmented-reality-html5.html
     - https://github.com/metagrover/ES6-for-humans#1-let-const-and-block-scoping
     - https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond
