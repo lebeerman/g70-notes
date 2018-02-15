@@ -13,10 +13,7 @@ g70-notes
 
    ## Goal: Do G-Money in <10 minutes. Launch a Simple VR web app. Front end frameworks + 3rd bucket!!!
     # Read REACT DOCS!!!
-   ## Daily Programmer exercises:
-        Anything from the Daily Programmer repo. https://github.com/gSchool/DailyProgrammer/tree/master/19_wordCloud
-        ------------
-     
+
    ## Read a programming book
         (Free) Eloquent JS: http://eloquentjavascript.net/
         (Free) You don’t know JS: https://github.com/getify/You-Dont-Know-JS
