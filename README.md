@@ -1,12 +1,9 @@
 ## g70-notes
 g70-notes
 
-## Sooooo much to learn
-
    ## Keep pushing forward.
     - FOR BREAK WEEK
       - kitchen: user stories
-      - dream factory: last dream factory 
       - shark tank: write proposals
       - fix investigators
       TOWER!!!
