@@ -1,8 +1,6 @@
 ## g70-notes
 g70-notes
 
-## Sooooo much to learn
-
    ## Keep pushing forward.
     - FOR BREAK WEEK
       - fix investigators
