@@ -27,10 +27,9 @@ g70-notes
     - https://medium.com/@jaeger.rob/seed-knex-posgresql-database-with-json-data-3677c6e7c9bc
     - https://medium.com/@codecademy/javascript-tips-tab-4e9081b4132
     - https://www.viget.com/articles/creating-your-first-webvr-app/
-    - http://linuxcommand.org/lc3_wss0030.php
     - https://marmelab.com/blog/2017/06/19/augmented-reality-html5.html
-    - https://github.com/metagrover/ES6-for-humans#1-let-const-and-block-scoping
     - https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond
+    
     - https://tylermcginnis.com/react-router-programmatically-navigate/
     - http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
 
