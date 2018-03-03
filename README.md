@@ -37,3 +37,6 @@ g70-notes
   - Build Funnel
   - Application Template
   - Personal Website Rebrand + Resume + Linkedin + Tweeeeter
+
+
+### Guest Speakers
