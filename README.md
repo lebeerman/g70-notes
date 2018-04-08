@@ -40,3 +40,8 @@ g70-notes
 
 
 ### Guest Speakers
+
+
+### Amazon Notes:
+- 
+- 
