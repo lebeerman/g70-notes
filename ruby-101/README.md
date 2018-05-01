@@ -8,6 +8,9 @@
 * Easy to use. 
   * Designed by Yukihiro Matsumoto (often just called "Matz") in 1995. Designed to emphasize human needs over those of the computer.
 
+* Ruby ignores whitespace
+
+* `inclusive or` 
 
 ### Ruby Syntax
 - Comments: 
@@ -41,3 +44,23 @@
   print "I took #{monkey} to the zoo"
   ```
 - Control Flow
+  `if` `elseif` `end` `else` blocks
+  ```
+  user_num = Integer(gets.chomp)
+  if user_num < 0
+    puts "You picked a negative integer!"
+  elsif user_num > 0
+    puts "You picked a positive integer!"
+  else
+    puts "You picked zero!"
+  end
+  ```
+  UNLESS!?!?!?!?
+  ```
+  unless hungry
+    # Write some sweet programs
+  else
+    # Have some noms
+  end
+  ```
+- 
