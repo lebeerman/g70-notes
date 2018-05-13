@@ -11,6 +11,10 @@
 * Ruby ignores whitespace
 
 * `inclusive or` 
+* `do` and `end` interchangable with `{}` for code blocks
+*  `do` `while`, `until`  ... `for loops` ... 
+* 
+
 
 ### Ruby Syntax
 - Comments: 
@@ -23,11 +27,12 @@
     Comments
   =end
   ```
-- Methods: 
+- (String) Methods: 
   ```
   .reverse
   .uppercase
   .lowercase
+  .split('item to split things by').
   ```
 - Console:
   ```
@@ -64,3 +69,35 @@
   end
   ```
 - I need sooooo much practice right now its insane. 
+#### Loops : 
+  FOR item in range
+  ```
+    for variable in range #.. or ...
+      puts variable
+    end
+
+    for num in 1...10
+      DO THINGS
+      puts "#{num}"
+    end
+  ```
+  - ...=exlusive and .. are different. 
+  - `next` and `break` in the code block
+  
+  - do while
+  - do until
+  - loop
+  
+  - .times
+
+#### Arrays :
+- Saving Multiple Values
+  - `my_array` [1,2,3,4]
+
+  - .each method on objects. `| |` === is a placeholder for each item in an object.
+    `numbers.each { |item| puts item }`
+
+  - .times method on objects. 
+    `20.times { print "Lets try this out. " }`
+
+  - 
