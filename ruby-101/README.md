@@ -13,6 +13,7 @@
 * `inclusive or` 
 * `do` and `end` interchangable with `{}` for code blocks
 *  `do` `while`, `until`  ... `for loops` ... 
+*   hash - collection of key-value pairs
 * 
 
 
@@ -100,4 +101,13 @@
   - .times method on objects. 
     `20.times { print "Lets try this out. " }`
 
+  - Hashes: 
+    ```
+      hash = {
+        key1 => value1,
+        key2 => value2,
+        key3 => value3
+      }
+    ```
+  - literal notation: `puts my_hash["name"]`
   - 
