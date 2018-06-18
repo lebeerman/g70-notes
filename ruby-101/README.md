@@ -101,6 +101,14 @@
   - .times method on objects. 
     `20.times { print "Lets try this out. " }`
 
+    .sort!
+    - can sort in descending : 
+    ```
+      array.sort! |f, s| 
+        s <=>  f
+      end  
+    ```
+
   - Hashes: 
     ```
       hash = {
@@ -111,3 +119,9 @@
     ```
   - literal notation: `puts my_hash["name"]`
   - 
+
+#### Methods
+  - creates a code block, 
+  - methods take arguments. 
+  - require an `end`
+
